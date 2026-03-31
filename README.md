@@ -5,13 +5,13 @@
 <img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/6bdcf2fd-b8fb-4d98-8787-01921e6f929f" />
 <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/0e31af2f-2f37-42a4-8349-f02782c2ffb2" />
 
-## 📊 Backtest Results
+## 📊 Strategy Dashboard
 
-![Backtest](images/backtest.png)
+<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/7c939f5f-fe2f-4a0e-be83-954166b9e375" />
 
 ## 🤖 Feature Importance
 
-![Features](images/features.png)
+<img width="1185" height="1482" alt="feature_importance" src="https://github.com/user-attachments/assets/0b9bb4dc-d447-4d50-8e09-ca31f761b4c0" />
 
 ## Files
 ```
