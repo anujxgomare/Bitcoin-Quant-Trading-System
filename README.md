@@ -1,5 +1,18 @@
 # Bitcoin Quant Terminal — Setup Guide
 
+## 📸 Dashboard Preview
+
+<img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/6bdcf2fd-b8fb-4d98-8787-01921e6f929f" />
+<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/0e31af2f-2f37-42a4-8349-f02782c2ffb2" />
+
+## 📊 Backtest Results
+
+![Backtest](images/backtest.png)
+
+## 🤖 Feature Importance
+
+![Features](images/features.png)
+
 ## Files
 ```
 trading-bot/
