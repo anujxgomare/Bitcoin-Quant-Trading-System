@@ -7,7 +7,7 @@
 
 ## 📊 Strategy Dashboard
 
-<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/7c939f5f-fe2f-4a0e-be83-954166b9e375" />
+<img width="2244" height="1954" alt="strategy_dashboard" src="https://github.com/user-attachments/assets/b4e6cb3f-7de9-4e07-88b7-55daed6e996e" />
 
 ## 🤖 Feature Importance
 
